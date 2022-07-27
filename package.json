@@ -1,5 +1,5 @@
 {
-  "name": "@feedfm/memcache-plus",
+  "name": "memcache-plus",
   "version": "0.2.22",
   "description": "Better memcache for node",
   "main": "index.js",
